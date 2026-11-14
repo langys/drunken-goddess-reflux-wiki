@@ -1,0 +1,46 @@
+{
+  "keyword": "drunken goddess reflux",
+  "country": "999",
+  "dateWindow": {
+    "from": "2026|10|15",
+    "to": "2026|11|11"
+  },
+  "extractedAt": "2026-11-14T09:52:49.189Z",
+  "tabs": [
+    {
+      "id": "trending",
+      "name": "Trending Keywords",
+      "count": 0,
+      "totalRecords": 0,
+      "totalVolume": 0,
+      "topKeywords": []
+    },
+    {
+      "id": "questions",
+      "name": "Questions Queries",
+      "count": 3,
+      "totalRecords": 3,
+      "totalVolume": 770,
+      "topKeywords": [
+        {
+          "keyword": "what studio made drunken goddess reflux",
+          "volume": 330,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "when is dgr releasing, drunken goddess reflux",
+          "volume": 230,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "when will drunken goddess reflux release",
+          "volume": 210,
+          "difficulty": 0,
+          "cpc": 0
+        }
+      ]
+    }
+  ]
+}

@@ -15,6 +15,8 @@ quickGuide:
   - "Music dynamically shifts tempo, low-pass filter, and distortion as intoxication rises."
   - "Jukebox tracks can be discovered and played inside Pandemonium during exploration."
 faq:
+  - q: "What is the theme song for Drunken Goddess Reflux / PUKEY GODDESS SHOT TRICK?"
+    a: "The official theme song is titled 'DEMON'S SHOT', composed and produced by Tokyo electronic artist Aiobahn +81, featuring lead vocals and lyrics by DEMONDICE and backing character voice lines by Nanahira."
   - q: "Who composed the music for Drunken Goddess Reflux?"
     a: "The official soundtrack was composed and arranged by Japanese electronic artist Aiobahn +81, renowned for high-energy anime and gaming anthems."
   - q: "Who sings the theme song DEMON'S SHOT?"
@@ -23,7 +25,7 @@ faq:
     a: "Yes! The original soundtrack is available on Steam as a standalone digital album and streams across Spotify, Apple Music, and YouTube Music alongside the game's launch."
 ---
 
-Music is the beating, chaotic heart of **Drunken Goddess Reflux**. From the opening bass drop in the neon-lit alleyways of Hell to the intimate, drunken whispers shared over a mahogany bar counter, the game's soundscape is an electrifying masterpiece. Masterminded by Tokyo-based producer **Aiobahn +81** and featuring dynamic vocal performances by underground rap powerhouse **DEMONDICE** and beloved voice talent **Nanahira**, the soundtrack perfectly encapsulates the game's blend of high-octane Russian roulette and emotional vulnerability.
+Music is the beating, chaotic heart of **Drunken Goddess Reflux** (also known as *PUKEY GODDESS SHOT TRICK*). From the opening bass drop in the neon-lit alleyways of Hell to the intimate, drunken whispers shared over a mahogany bar counter, the game's soundscape is an electrifying masterpiece. Masterminded by Tokyo-based producer **Aiobahn +81** and featuring dynamic vocal performances by underground rap powerhouse **DEMONDICE** and beloved voice talent **Nanahira**, the soundtrack perfectly encapsulates the game's blend of high-octane Russian roulette and emotional vulnerability.
 
 This guide provides the complete 14-track official tracklist, analyzes the interactive audio engine, reveals jukebox secrets, and explores how the music directly enhances gameplay.
 
@@ -31,7 +33,7 @@ This guide provides the complete 14-track official tracklist, analyzes the inter
 
 ## The Hit Theme Song: "DEMON'S SHOT"
 
-The promotional trailer and title theme song **"DEMON'S SHOT"** took the indie gaming scene by storm upon its reveal. Blending frenetic electro-breakbeat rhythms with sharp hip-hop verses and hyper-energetic vocal hooks, the track serves as the game's narrative manifesto:
+The promotional trailer and title theme song **"DEMON'S SHOT"**—widely searched by fans as the *theme for PUKEY GODDESS SHOT TRICK*—took the indie gaming scene by storm upon its reveal. Blending frenetic electro-breakbeat rhythms with sharp hip-hop verses and hyper-energetic vocal hooks, the track serves as the game's narrative manifesto:
 
 - **Music & Composition**: Aiobahn +81
 - **Arrangement**: Aiobahn +81

@@ -1,0 +1,89 @@
+{
+  "keyword": "pukey goddess",
+  "country": "999",
+  "dateWindow": {
+    "from": "2026|10|15",
+    "to": "2026|11|11"
+  },
+  "extractedAt": "2026-11-14T09:53:15.220Z",
+  "tabs": [
+    {
+      "id": "phrase_match",
+      "name": "Phrase Match",
+      "count": 144,
+      "totalRecords": 144,
+      "totalVolume": 255370,
+      "topKeywords": [
+        {
+          "keyword": "pukey goddess shot trick",
+          "volume": 187310,
+          "difficulty": 9,
+          "cpc": 0.17
+        },
+        {
+          "keyword": "pukey goddess",
+          "volume": 9100,
+          "difficulty": 8,
+          "cpc": 0
+        },
+        {
+          "keyword": "pukey goddess shot trick 発売 日",
+          "volume": 4320,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "pukey goddess shot trick グッズ",
+          "volume": 2820,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "pukey goddess shot trick 値段",
+          "volume": 2710,
+          "difficulty": 0,
+          "cpc": 0
+        }
+      ]
+    },
+    {
+      "id": "questions",
+      "name": "Questions Queries",
+      "count": 5,
+      "totalRecords": 5,
+      "totalVolume": 1200,
+      "topKeywords": [
+        {
+          "keyword": "когда выйдет игра pukey goddess shot trick",
+          "volume": 800,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "why pukey goddess delay",
+          "volume": 260,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "what is the game pukey goddess about",
+          "volume": 140,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "where can i find the pukey goddess shot trick discord invite link",
+          "volume": 0,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "когда выйдет pukey goddess shot trick",
+          "volume": 0,
+          "difficulty": 0,
+          "cpc": 0
+        }
+      ]
+    }
+  ]
+}

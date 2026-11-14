@@ -16,7 +16,7 @@ export const siteConfig = {
   tagline: 'Guides, Drinks & Endings',
   /** Meta description: verb first, comma-separated coverage, one concrete detail. */
   description:
-    'Drunken Goddess Reflux Wiki covers Russian roulette survival guides, drink tier lists, 7 endings walkthroughs, and codes for the hell bar drinking game.',
+    'Drunken Goddess Reflux Wiki (PUKEY GODDESS SHOT TRICK) covers Russian roulette guides, drink tier lists, 7 endings walkthroughs, and codes for the hell bar game.',
   /** VideoGame for games, SoftwareApplication for non-game trend keywords. */
   subjectType: 'VideoGame' as 'VideoGame' | 'SoftwareApplication',
   operatingSystem: 'PC',

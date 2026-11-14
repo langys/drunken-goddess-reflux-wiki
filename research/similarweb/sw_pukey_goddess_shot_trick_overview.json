@@ -1,0 +1,189 @@
+{
+  "keyword": "pukey goddess shot trick",
+  "country": "999",
+  "dateWindow": {
+    "from": "2026|10|15",
+    "to": "2026|11|11"
+  },
+  "stats": {
+    "SERPCompositionBreakDown": {
+      "ClassicOrganic": {
+        "Percentage": 0.9022022022022022
+      },
+      "OrganicSERPFeatures": {
+        "Percentage": 0.09779779779779779
+      },
+      "SearchAds": {
+        "Percentage": 0
+      },
+      "PLA": {
+        "Percentage": 0
+      }
+    },
+    "Difficulty": 9,
+    "Competition": 0,
+    "CPCRangeMin": 0.01,
+    "CPCRangeMax": 0.21,
+    "TotalSpentRangeMin": 0,
+    "TotalSpentRangeMax": 0,
+    "IntentVolumeDistribution": {
+      "Informational": 1
+    },
+    "AioExistence": 0
+  },
+  "trend": {
+    "Breakdown": {
+      "2026-10-11": {
+        "Clicks": {
+          "Organic": 62212,
+          "Paid": 0
+        },
+        "Volume": 85331
+      },
+      "2026-10-18": {
+        "Clicks": {
+          "Organic": 41883,
+          "Paid": 0
+        },
+        "Volume": 63965
+      },
+      "2026-10-25": {
+        "Clicks": {
+          "Organic": 27193,
+          "Paid": 0
+        },
+        "Volume": 44860
+      },
+      "2026-11-01": {
+        "Clicks": {
+          "Organic": 17373,
+          "Paid": 0
+        },
+        "Volume": 29708
+      },
+      "2026-11-08": {
+        "Clicks": {
+          "Organic": 7029,
+          "Paid": 0
+        },
+        "Volume": 12434
+      }
+    },
+    "Average": {
+      "Clicks": {
+        "Organic": 31138,
+        "Paid": 0
+      },
+      "Volume": 47260
+    }
+  },
+  "sites": {
+    "Competitors": [
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=steampowered.com&t=2&s=0&h=3fa4d7556e48cb42fb15e8599bc3764b42518fb58f7a0a3168e2c733c84d5676",
+        "Domain": "steampowered.com",
+        "Clicks": 41044.36541967475,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 8790,
+          "2026-05-01": 72360,
+          "2026-06-01": 21870,
+          "2026-07-01": 11880,
+          "2026-08-01": 11430,
+          "2026-09-01": 14990,
+          "2026-10-01": 62280
+        }
+      },
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=0&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20",
+        "Domain": "youtube.com",
+        "Clicks": 19656.964813620776,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 2040,
+          "2026-05-01": 15930,
+          "2026-06-01": 6070,
+          "2026-07-01": 4400,
+          "2026-08-01": 4490,
+          "2026-09-01": 6980,
+          "2026-10-01": 32360
+        }
+      },
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=steamcommunity.com&t=2&s=0&h=dcbb9cc342442e46d5bdf9ed3c911f3212b2c71ce8bf2818667be628a6e58652",
+        "Domain": "steamcommunity.com",
+        "Clicks": 10336.541779197736,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 60,
+          "2026-05-01": 820,
+          "2026-06-01": 1740,
+          "2026-07-01": 1000,
+          "2026-08-01": 840,
+          "2026-09-01": 2070,
+          "2026-10-01": 19300
+        }
+      },
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=namu.wiki&t=2&s=0&h=48841617f703a6ce22e7b5f64c080b5eef4f5ea5d2e069704156b25292303c29",
+        "Domain": "namu.wiki",
+        "Clicks": 9499.145204806393,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 0,
+          "2026-05-01": 6810,
+          "2026-06-01": 1810,
+          "2026-07-01": 620,
+          "2026-08-01": 600,
+          "2026-09-01": 1290,
+          "2026-10-01": 11490
+        }
+      },
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=alliance-arts.co.jp&t=2&s=0&h=b9cfa3ed5751ef844066e747ccf76f33f5fdf436f38cfb13fa4fa3cfd7fc02b3",
+        "Domain": "alliance-arts.co.jp",
+        "Clicks": 7715.91871144261,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 640,
+          "2026-05-01": 31760,
+          "2026-06-01": 4830,
+          "2026-07-01": 2600,
+          "2026-08-01": 7420,
+          "2026-09-01": 5980,
+          "2026-10-01": 10400
+        }
+      }
+    ]
+  }
+}

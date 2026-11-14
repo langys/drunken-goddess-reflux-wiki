@@ -15,15 +15,19 @@ quickGuide:
   - "Selecting affectionate dialogue options increases her tolerance but unlocks secret romance branches."
   - "Forcing Spiritum into her cup requires baiting her into an aggressive Double Toast turn."
 faq:
+  - q: "What is the character name of the demon in Drunken Goddess Reflux / PUKEY GODDESS SHOT TRICK?"
+    a: "The demon bartender and main heroine is named Femme Soule (ファム・サワー, also Romanized as Fam Sour or Fem Soule). She is designed by character artist odyk and voiced by Japanese singer/voice actress Nanahira."
   - q: "Who is Femme Soule in Drunken Goddess Reflux?"
-    a: "Femme Soule (also known as Fam Sour) is the demonic barfly patron of Hell's Pandemonium bar. Voiced by renowned voice artist Nanahira, she challenges mortal visitors to life-or-death drinking games out of obsessive love."
+    a: "Femme Soule is the demonic barfly patron of Hell's Pandemonium bar. She challenges mortal visitors to life-or-death drinking games out of obsessive affection, seeking to bind your soul to her tavern."
   - q: "How can you tell if Femme Soule is bluffing?"
     a: "When Femme Soule pushes a high-proof glass across the table while claiming it is safe, her demonic horns flare with crimson embers and she avoids direct eye contact for two seconds."
   - q: "Can you defeat Femme Soule without using trick cards?"
     a: "While theoretically possible with extraordinary luck, Femme Soule plays powerful demon cards in later rounds. Countering her moves with Drunken Tricks is essential on normal and hard difficulties."
 ---
 
-In the shadowed booths of Pandemonium, your adversary is not a faceless dealer—she is **Femme Soule** (Fam Sour), a liquor-soaked demoness whose fixation on your mortal soul is as deadly as it is endearing. Character designed by artist odyk and brought to manic, magnetic life by celebrated voice actress Nanahira, Femme Soule embodies the chaotic spirit of a barfly who would kill for you or kill you.
+In the shadowed booths of Pandemonium, your adversary is not a faceless dealer—she is **Femme Soule** (often searched as *Fam Sour* or the *Pukey Goddess character*), a liquor-soaked demoness whose fixation on your mortal soul is as deadly as it is endearing. Character designed by prominent illustrator **odyk** and brought to manic, magnetic life by celebrated voice actress **Nanahira**, Femme Soule embodies the chaotic spirit of an affectionate demon who would kill for you or kill you.
+
+Whether you know the game as *Drunken Goddess Reflux* or *PUKEY GODDESS SHOT TRICK*, Femme Soule is the central star and sole opponent of every duel.
 
 To defeat her and claim your freedom, you must analyze her behavioral patterns, recognize the vocal and physical tells hidden within Nanahira's performance, counter her devastating demonic cards, and guide her Intoxication gauge past 100%.
 

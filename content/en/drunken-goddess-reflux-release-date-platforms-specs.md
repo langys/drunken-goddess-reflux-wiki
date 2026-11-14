@@ -10,31 +10,43 @@ imageAlt: "Drunken Goddess Reflux Release Date, Platforms and PC Specs"
 imageCaption: "Official launch timing, PC hardware benchmarks, Steam Deck verification, and console plans."
 quickGuide:
   - "Official PC release is scheduled for December 8, 2026, exclusively via Steam."
+  - "Also officially titled PUKEY GODDESS SHOT TRICK (醉娘回流 / DGR) in Japanese listings."
+  - "Anticipated pricing: $9.99 – $14.99 USD (¥1,200 – ¥1,800 JPY) with a 10% launch discount."
   - "Developed by WHO YOU (Fuyuki Hayashi) and published by Alliance Arts."
   - "Native Steam Deck support with verified 60 FPS performance out of the box."
-  - "Low minimum PC requirements: playable on Intel Core i3 with GTX 960 or equivalent."
-  - "Public demo was cancelled to protect game assets; closed playtests hosted via Discord."
+  - "Content rating: Stylized psychological survival with dark humor; not an R18 or gore title."
 faq:
   - q: "When is the Drunken Goddess Reflux release date?"
     a: "Drunken Goddess Reflux launches worldwide on PC via Steam on December 8, 2026."
+  - q: "Is Drunken Goddess Reflux the same as PUKEY GODDESS SHOT TRICK?"
+    a: "Yes. The game was announced and is officially known in Japan as PUKEY GODDESS SHOT TRICK (醉娘回流). Both titles share Steam App ID 4150720."
+  - q: "How much will Drunken Goddess Reflux cost?"
+    a: "The expected base price is $9.99 to $14.99 USD (¥1,200 – ¥1,800 JPY) on Steam, featuring an introductory launch discount during its first release week."
   - q: "Is Drunken Goddess Reflux coming to Nintendo Switch or PlayStation?"
     a: "Alliance Arts has announced the game exclusively for PC (Steam) for the initial December 2026 launch. Console ports have not been ruled out for 2027 depending on reception."
+  - q: "Is Drunken Goddess Reflux an NSFW or gore game?"
+    a: "No. The game features drunk character art and soul-purge reflux effects, but contains no adult nudity, sexual scenes, or graphic anatomical gore."
   - q: "Why was the Steam demo cancelled in October 2026?"
     a: "Developer WHO YOU cancelled the public demo due to security concerns regarding third-party scraping and AI duplication of the game's unique drinking mechanics, opting instead for closed community beta testing."
 ---
 
-Following its viral reveal during INDIE Live Expo and rapid accumulation of hundreds of thousands of Steam wishlists, **Drunken Goddess Reflux** has cemented itself as one of the most anticipated indie releases of late 2026. Combining shot-glass Russian roulette with the signature psychological storytelling of director **Fuyuki Hayashi** (WHO YOU) and publisher **Alliance Arts**, the game is poised to take the gaming community by storm.
+Following its viral reveal during INDIE Live Expo and rapid accumulation of hundreds of thousands of Steam wishlists, **Drunken Goddess Reflux**—also officially known in Japan and early promotional listings as **PUKEY GODDESS SHOT TRICK** (醉娘回流, often abbreviated **DGR**)—has cemented itself as one of the most anticipated indie releases of late 2026. Combining shot-glass Russian roulette with the signature psychological storytelling of director **Fuyuki Hayashi** (WHO YOU) and publisher **Alliance Arts**, the game is poised to take the gaming community by storm.
 
-This guide provides official release dates, platform availability, PC system specifications, Steam Deck optimization settings, and details surrounding the cancelled public demo.
+> [!NOTE]
+> **Title Notice: PUKEY GODDESS SHOT TRICK (醉娘回流)**  
+> Players searching for *PUKEY GODDESS SHOT TRICK* (発売日: 2026年12月8日) and *Drunken Goddess Reflux* are looking at the exact same game. The Western English title translates the original Japanese conceptual title while keeping all characters, mechanics, and Steam App ID (4150720) 100% identical.
+
+This guide provides official release dates, expected launch pricing, platform availability, PC system specifications, content ratings, and details surrounding the cancelled public demo.
 
 ---
 
 ## Release Date and Platform Availability
 
-The official release details for Drunken Goddess Reflux are confirmed:
+The official release details for Drunken Goddess Reflux / PUKEY GODDESS SHOT TRICK are confirmed:
 
-- **Global Release Date**: **December 8, 2026**
+- **Global Release Date (発売日)**: **December 8, 2026**
 - **Lead Platform**: **PC via Steam** (Store App ID: 4150720)
+- **Expected Pricing (値段)**: **$9.99 – $14.99 USD** / **¥1,200 – ¥1,800 JPY** (with a standard 10% launch discount week)
 - **Supported Languages**: English, Japanese, Traditional Chinese, Simplified Chinese (Full Japanese voice acting by Nanahira)
 - **Store Page Link**: [Drunken Goddess Reflux on Steam](https://store.steampowered.com/app/4150720/Drunken_Goddess_Reflux/)
 
@@ -43,6 +55,14 @@ While console versions (Nintendo Switch 2, PlayStation 5) have been widely reque
 Learn the basics before launch with our [Beginner Guide](/guide/drunken-goddess-reflux-beginner-guide).
 
 ---
+
+## Content Rating: Is Drunken Goddess Reflux NSFW or Gory?
+
+Due to the intense psychological themes, suggestive demon banter, and the visceral concept of "purging your soul" via reflux, many players wonder about the game's content classification:
+
+- **NSFW / R18 Status**: **No**. Drunken Goddess Reflux is **not an adult R18 / eroge title**. While the demon bartender [Femme Soule](/guide/drunken-goddess-reflux-femme-soule-boss-guide) sports a provocative gothic-bartender aesthetic and speaks with affectionate, obsessive vocal lines delivered by Nanahira, there is no sexual content or explicit nudity.
+- **Gore and Violence**: **Stylized Dark Fantasy**. The Russian roulette duels do not involve explosive gun violence or anatomical dismemberment. Losing a round causes your character or Femme Soule to cough up radiant ethereal mist representing their lost soul.
+- **Age Rating Equivalent**: ESRB Teen / PEGI 12 (Alcohol Reference, Fantasy Violence, Mild Language).
 
 ## PC System Requirements: Minimum vs Recommended
 

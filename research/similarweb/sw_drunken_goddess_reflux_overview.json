@@ -1,0 +1,189 @@
+{
+  "keyword": "drunken goddess reflux",
+  "country": "999",
+  "dateWindow": {
+    "from": "2026|10|15",
+    "to": "2026|11|11"
+  },
+  "stats": {
+    "SERPCompositionBreakDown": {
+      "ClassicOrganic": {
+        "Percentage": 0.9150725247004414
+      },
+      "OrganicSERPFeatures": {
+        "Percentage": 0.08492747529955855
+      },
+      "SearchAds": {
+        "Percentage": 0
+      },
+      "PLA": {
+        "Percentage": 0
+      }
+    },
+    "Difficulty": 5,
+    "Competition": 0,
+    "CPCRangeMin": 0.01,
+    "CPCRangeMax": 0.36,
+    "TotalSpentRangeMin": 0.04,
+    "TotalSpentRangeMax": 1.14,
+    "IntentVolumeDistribution": {
+      "Informational": 1
+    },
+    "AioExistence": 0
+  },
+  "trend": {
+    "Breakdown": {
+      "2026-10-11": {
+        "Clicks": {
+          "Organic": 13561,
+          "Paid": 0
+        },
+        "Volume": 29486
+      },
+      "2026-10-18": {
+        "Clicks": {
+          "Organic": 27477,
+          "Paid": 0
+        },
+        "Volume": 54841
+      },
+      "2026-10-25": {
+        "Clicks": {
+          "Organic": 20480,
+          "Paid": 0
+        },
+        "Volume": 42676
+      },
+      "2026-11-01": {
+        "Clicks": {
+          "Organic": 9284,
+          "Paid": 0
+        },
+        "Volume": 19389
+      },
+      "2026-11-08": {
+        "Clicks": {
+          "Organic": 3275,
+          "Paid": 3
+        },
+        "Volume": 9308
+      }
+    },
+    "Average": {
+      "Clicks": {
+        "Organic": 14815,
+        "Paid": 1
+      },
+      "Volume": 31140
+    }
+  },
+  "sites": {
+    "Competitors": [
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=steampowered.com&t=2&s=0&h=3fa4d7556e48cb42fb15e8599bc3764b42518fb58f7a0a3168e2c733c84d5676",
+        "Domain": "steampowered.com",
+        "Clicks": 42697.34824542073,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 2970,
+          "2026-05-01": 34900,
+          "2026-06-01": 7530,
+          "2026-07-01": 4260,
+          "2026-08-01": 3520,
+          "2026-09-01": 2650,
+          "2026-10-01": 41880
+        }
+      },
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=youtube.com&t=2&s=0&h=e117fb09ba0a34dee9830863bf927d29fc864e342583a36a667bf12346e88e20",
+        "Domain": "youtube.com",
+        "Clicks": 8044.786597330203,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 610,
+          "2026-05-01": 14040,
+          "2026-06-01": 2510,
+          "2026-07-01": 1230,
+          "2026-08-01": 570,
+          "2026-09-01": 850,
+          "2026-10-01": 7510
+        }
+      },
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=steamcommunity.com&t=2&s=0&h=dcbb9cc342442e46d5bdf9ed3c911f3212b2c71ce8bf2818667be628a6e58652",
+        "Domain": "steamcommunity.com",
+        "Clicks": 5016.596418030935,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 40,
+          "2026-05-01": 5130,
+          "2026-06-01": 670,
+          "2026-07-01": 630,
+          "2026-08-01": 400,
+          "2026-09-01": 270,
+          "2026-10-01": 5020
+        }
+      },
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=reddit.com&t=2&s=0&h=66f2412047e0362ec60d5583d4b186511a8e859446bb112c60d22968facae906",
+        "Domain": "reddit.com",
+        "Clicks": 2536.2069011530743,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 50,
+          "2026-05-01": 2850,
+          "2026-06-01": 1240,
+          "2026-07-01": 490,
+          "2026-08-01": 360,
+          "2026-09-01": 420,
+          "2026-10-01": 2690
+        }
+      },
+      {
+        "Favicon": "https://site-images.similarcdn.com/image?url=ign.com&t=2&s=0&h=0c8e7bb9a1ede62158fb826bea647538d5a17d12bced25b8811eb1d28a8a1985",
+        "Domain": "ign.com",
+        "Clicks": 1927.934147014632,
+        "OrganicShare": 1,
+        "PaidShare": 0,
+        "YearlyTrend": {
+          "2025-11-01": 0,
+          "2025-12-01": 0,
+          "2026-01-01": 0,
+          "2026-02-01": 0,
+          "2026-03-01": 0,
+          "2026-04-01": 0,
+          "2026-05-01": 0,
+          "2026-06-01": 0,
+          "2026-07-01": 0,
+          "2026-08-01": 0,
+          "2026-09-01": 0,
+          "2026-10-01": 1360
+        }
+      }
+    ]
+  }
+}
