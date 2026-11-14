@@ -44,6 +44,9 @@ To see how Spiritum compares to mid-tier spirits like Blood Wine, consult our [D
 
 ## How to Identify Spiritum: The Three Visual Checks
 
+![Spiritum 96% Ethanol Lethal Glass](/images/guides/steam-screenshot-1.webp "The deadly 96% Spiritum shot capable of instant demonic soul purge.")
+
+
 Because drinking Spiritum unintentionally will immediately ruin a promising run, you must memorize its physical tells:
 
 ```

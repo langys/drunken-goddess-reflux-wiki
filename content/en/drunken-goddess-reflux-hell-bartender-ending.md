@@ -51,6 +51,9 @@ Review room locations in [Pandemonium Bar Secrets](/guide/drunken-goddess-reflux
 
 ## Crafting The Forbidden Elixir
 
+![Hell Bartender Ending Dialogue](/images/guides/steam-screenshot-6.webp "Accepting the eternal apron and succeeding the master bartender of Pandemonium.")
+
+
 With all four logbooks in your inventory, interact with the brass shaker behind the bar counter. A golden prompt will announce: *"Secret Formula Deciphered: The Forbidden Elixir"*.
 
 ### Ingredients Required:

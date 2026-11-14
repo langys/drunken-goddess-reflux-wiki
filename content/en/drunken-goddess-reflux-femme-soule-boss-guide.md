@@ -63,6 +63,9 @@ Learn how to survive this climactic stage in our [Survival Strategies Guide](/gu
 
 ## Vocal Tells: Deciphering Nanahira's Voice Cues
 
+![Femme Soule Demon Boss Facing the Player](/images/guides/steam-screenshot-2.webp "Reading Femme Soule's facial expressions and smirk tells during high-proof rounds.")
+
+
 The sound design in Drunken Goddess Reflux is a vital gameplay system. Nanahira recorded hundreds of nuanced vocal takes, embedding subtle clues into Femme Soule's dialogue:
 
 | Voice Line / Vocal Cadence | Underlying Reality | Recommended Counter |

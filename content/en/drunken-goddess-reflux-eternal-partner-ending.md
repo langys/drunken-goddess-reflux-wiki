@@ -49,6 +49,9 @@ Femme Soule possesses an internal **Affection Gauge (0 to 100)** hidden during g
 
 ## Step 1: Flirting Through Intermission 1
 
+![Femme Soule Eternal Partner Romance Climax](/images/guides/steam-screenshot-2.webp "Femme Soule celebrating eternal soul bonding at the climax of the duel.")
+
+
 After completing Round 1, do not rush to the cellar or restroom. Instead, walk directly to the **VIP Booth** where Femme Soule is curled up on the red velvet sofa:
 1. Speak with her. She playfully asks if mortal souls always tremble this much.
 2. **Select Response**: *"I'm only trembling because you're stunning under these neon lights."*

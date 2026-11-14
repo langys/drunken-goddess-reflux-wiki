@@ -56,6 +56,9 @@ PLAYTHROUGH 3: The Chaos Run (Mutual Reflux & Grim Fates)
 
 ## Story & Ending Achievements (7 Trophies)
 
+![Steam Achievement Milestones and Duel Gauges](/images/guides/steam-screenshot-4.webp "Tracking high-intoxication clutch wins and secret achievement unlocks.")
+
+
 These achievements correspond directly to the narrative paths detailed in our [All Endings Guide](/endings/drunken-goddess-reflux-all-endings-guide):
 
 ### 1. Morning Sunlight (Gold)

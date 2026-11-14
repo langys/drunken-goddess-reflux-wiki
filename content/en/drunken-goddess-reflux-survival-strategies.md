@@ -53,6 +53,9 @@ Compare all beverage statistics in our [All Drinks and Proof Catalog](/drinks/dr
 
 ## Card Economy: The Two-Card Rule for Round 3
 
+![Intoxication Gauge and Sensory Impairment Effects](/images/guides/steam-screenshot-4.webp "Managing alcohol accumulation as screen wobble and chromatic aberration increase.")
+
+
 Player trick cards are earned by accumulating intoxication (1 card drawn per 20% gauge gained) or bought from the bartender with Skull Coins. A common beginner error is burning cards in Rounds 1 and 2 to avoid mild 30% drinks.
 
 **The Golden Rule of Card Economy**: Never enter Round 3 without at least:

@@ -1,0 +1,124 @@
+{
+  "keyword": "Drunken Goddess Reflux",
+  "country": "999",
+  "dateWindow": {
+    "from": "2026|10|15",
+    "to": "2026|11|11"
+  },
+  "extractedAt": "2026-11-14T13:16:40.424Z",
+  "tabs": [
+    {
+      "id": "phrase_match",
+      "name": "Phrase Match",
+      "count": 75,
+      "totalRecords": 75,
+      "totalVolume": 177790,
+      "topKeywords": [
+        {
+          "keyword": "drunken goddess reflux",
+          "volume": 145010,
+          "difficulty": 5,
+          "cpc": 0.27
+        },
+        {
+          "keyword": "drunken goddess reflux release date",
+          "volume": 5620,
+          "difficulty": 8,
+          "cpc": 0
+        },
+        {
+          "keyword": "drunken goddess reflux demo",
+          "volume": 4020,
+          "difficulty": 59,
+          "cpc": 0
+        },
+        {
+          "keyword": "drunken goddess reflux r34",
+          "volume": 1750,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "drunken goddess reflux steam",
+          "volume": 1500,
+          "difficulty": 0,
+          "cpc": 0
+        }
+      ]
+    },
+    {
+      "id": "related",
+      "name": "Related Keywords",
+      "count": 5000,
+      "totalRecords": 175659,
+      "totalVolume": 30382192900,
+      "topKeywords": [
+        {
+          "keyword": "drunken goddess reflux",
+          "volume": 145010,
+          "difficulty": 5,
+          "cpc": 0.27
+        },
+        {
+          "keyword": "drunken goddess",
+          "volume": 9650,
+          "difficulty": 5,
+          "cpc": 0
+        },
+        {
+          "keyword": "drunken goddess reflux release date",
+          "volume": 5620,
+          "difficulty": 8,
+          "cpc": 0
+        },
+        {
+          "keyword": "drunk goddess reflux",
+          "volume": 4430,
+          "difficulty": 5,
+          "cpc": 0
+        },
+        {
+          "keyword": "drunken goddess reflux demo",
+          "volume": 4020,
+          "difficulty": 59,
+          "cpc": 0
+        }
+      ]
+    },
+    {
+      "id": "trending",
+      "name": "Trending Keywords",
+      "count": 0,
+      "totalRecords": 0,
+      "totalVolume": 0,
+      "topKeywords": []
+    },
+    {
+      "id": "questions",
+      "name": "Questions Queries",
+      "count": 3,
+      "totalRecords": 3,
+      "totalVolume": 770,
+      "topKeywords": [
+        {
+          "keyword": "what studio made drunken goddess reflux",
+          "volume": 330,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "when is dgr releasing, drunken goddess reflux",
+          "volume": 230,
+          "difficulty": 0,
+          "cpc": 0
+        },
+        {
+          "keyword": "when will drunken goddess reflux release",
+          "volume": 210,
+          "difficulty": 0,
+          "cpc": 0
+        }
+      ]
+    }
+  ]
+}

@@ -47,6 +47,9 @@ Learn how to spend your Skull Coins efficiently in our [Drunken Tricks and Decep
 
 ## Secret Speakeasy Jukebox Passwords
 
+![Underworld Safe and Bar Password Entry](/images/guides/steam-screenshot-7.webp "Entering secret codes on the vintage Pandemonium safe dial.")
+
+
 In addition to standard promo codes, players can interact with the **Neon Jukebox** in the lounge during 3D bar intermissions to enter secret numerical passwords into the track selection keypad:
 
 ```

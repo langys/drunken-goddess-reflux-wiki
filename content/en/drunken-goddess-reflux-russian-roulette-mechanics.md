@@ -47,6 +47,9 @@ To prepare yourself for the complete spectrum of beverages, see our detailed [Al
 
 ## Physical and Visual Tells: Reading the Glasses
 
+![Shot Glass Odds and Meniscus Inspection](/images/guides/steam-screenshot-1.webp "Inspecting shot glass meniscus and bubble density before selecting a drink.")
+
+
 While glasses share identical crystal shapes, developers WHO YOU implemented subtle physical rendering details that allow keen-eyed players to deduce proof levels without drinking:
 
 ### 1. Meniscus Surface Tension

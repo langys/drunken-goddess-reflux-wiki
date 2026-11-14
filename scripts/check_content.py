@@ -18,6 +18,10 @@ Rules (E = error, exit 1; W = warning, report only):
   W12 no duplicate title/description across articles (same locale)
   W13 quickGuide + faq recommended (AI-answer & rich-result readiness)
   W14 non-default locales should achieve 1:1 guide parity with default locale
+  E15 frontmatter image must resolve to an existing local file under public/
+  E16 in-article markdown images must resolve to existing files under public/
+  E17 anti "全屏都是一个图": no single cover image can be reused across >25% of guides (min 4 guides)
+  W18 in-article screenshots recommended for rich visual presentation (图文并茂)
 
 Stdlib only, like the rest of scripts/. Run: python3 scripts/check_content.py --site-dir .
 """
@@ -94,7 +98,7 @@ def build_routes(site_dir: pathlib.Path, hubs: dict[str, str], default: str, loc
     return routes
 
 
-def check_file(md: pathlib.Path, locale: str, default: str, hubs: dict[str, str], routes: set[str]):
+def check_file(md: pathlib.Path, locale: str, default: str, hubs: dict[str, str], routes: set[str], site_dir: pathlib.Path | None = None):
     errors: list[str] = []
     warnings: list[str] = []
     text = md.read_text(encoding="utf-8").replace("\r\n", "\n")
@@ -137,6 +141,15 @@ def check_file(md: pathlib.Path, locale: str, default: str, hubs: dict[str, str]
         if val and not ISO_DATE_RE.match(val):
             errors.append(f"{key} '{val}' is not ISO YYYY-MM-DD")
 
+    # E15 — frontmatter cover image existence
+    cover = fm.get("image", "").strip()
+    if cover:
+        clean_cover = cover.split()[0].strip("\"'")
+        if clean_cover.startswith("/") and site_dir:
+            img_path = site_dir / "public" / clean_cover.lstrip("/")
+            if not img_path.is_file():
+                errors.append(f"frontmatter image '{clean_cover}' does not exist under public/")
+
     # E1 — no H1 in body
     for i, line in enumerate(body.splitlines(), 1):
         if line.startswith("# "):
@@ -153,10 +166,18 @@ def check_file(md: pathlib.Path, locale: str, default: str, hubs: dict[str, str]
                 warnings.append(f"heading skips h{prev} -> h{level}: '{line.strip()[:50]}'")
             prev = level
 
-    # E3 — image alt text
-    for alt, src in IMG_RE.findall(body):
+    # E3 / E16 / W18 — images
+    markdown_images = IMG_RE.findall(body)
+    for alt, src in markdown_images:
         if not alt.strip():
             errors.append(f"image without alt text: {src[:60]}")
+        clean_src = src.split()[0].strip("\"'")
+        if clean_src.startswith("/") and site_dir:
+            img_path = site_dir / "public" / clean_src.lstrip("/")
+            if not img_path.is_file():
+                errors.append(f"in-article image '{clean_src}' does not exist under public/")
+    if len(markdown_images) == 0:
+        warnings.append("no in-article images or screenshots found — recommend adding illustrations (图文并茂) for reader engagement")
 
     # W4 / E5 / E6 — internal links
     links = MD_LINK_RE.findall(body)
@@ -195,15 +216,22 @@ def main() -> int:
 
     total_e = total_w = files = 0
     seen: dict[str, dict[str, str]] = {}  # locale -> {title/desc -> slug}
+    covers_by_locale: dict[str, dict[str, list[str]]] = {}  # locale -> {cover -> [slugs]}
+    locale_file_counts: dict[str, int] = {}
+
     for locale in locales:
         content_dir = site_dir / "content" / locale
         if not content_dir.is_dir():
             continue
         routes = build_routes(site_dir, hubs, default, locale)
         seen.setdefault(locale, {})
-        for md in sorted(content_dir.glob("*.md")):
+        covers_by_locale.setdefault(locale, {})
+        locale_files = sorted(content_dir.glob("*.md"))
+        locale_file_counts[locale] = len(locale_files)
+
+        for md in locale_files:
             files += 1
-            errors, warnings, fm = check_file(md, locale, default, hubs, routes)
+            errors, warnings, fm = check_file(md, locale, default, hubs, routes, site_dir)
             for key in ("title", "description"):
                 val = fm.get(key, "")
                 if val:
@@ -212,12 +240,31 @@ def main() -> int:
                         warnings.append(f"duplicate {key} also used by '{owner}'")
                     else:
                         seen[locale][val] = md.stem
+            cover = fm.get("image", "").strip()
+            if cover:
+                clean_cover = cover.split()[0].strip("\"'")
+                covers_by_locale[locale].setdefault(clean_cover, []).append(md.stem)
             for msg in errors:
                 total_e += 1
                 print(f"ERROR   {locale}/{md.name}: {msg}")
             for msg in warnings:
                 total_w += 1
                 print(f"WARN    {locale}/{md.name}: {msg}")
+
+    # E17: Anti "全屏都是一个图" / Image Diversity Gate
+    for locale, covers in covers_by_locale.items():
+        total_in_locale = locale_file_counts.get(locale, 0)
+        if total_in_locale >= 4:
+            for cover, slugs in sorted(covers.items()):
+                count = len(slugs)
+                ratio = count / total_in_locale
+                if count > 3 and ratio > 0.25:
+                    total_e += 1
+                    print(
+                        f"ERROR   {locale}: Image duplication / low visual diversity (E17): cover '{cover}' "
+                        f"is reused by {count}/{total_in_locale} articles ({slugs[:4]}...). "
+                        f"Each article must have distinct or topic-matched artwork — do not reuse hero or placeholder image everywhere (全屏都是一个图)."
+                    )
 
     # W14: Multilingual 1:1 Parity check
     default_dir = site_dir / "content" / default

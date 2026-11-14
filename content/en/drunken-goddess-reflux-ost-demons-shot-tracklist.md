@@ -47,6 +47,9 @@ Watch the official trailers in our [Release Date and System Specs Guide](/codes/
 
 ## Official 14-Track Pandemonium Tracklist
 
+![Original Soundtrack Featuring Nanahira](/images/guides/steam-screenshot-2.webp "Femme Soule voice performance and dynamic battle jazz soundtrack.")
+
+
 The complete original soundtrack features 14 tracks arranged chronologically across your descent into Hell:
 
 | Track # | Track Title | Genre / Vibe | In-Game Scene / Usage |

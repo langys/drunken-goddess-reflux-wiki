@@ -44,6 +44,9 @@ For exploration tips on locating rare ingredients, consult [Pandemonium Bar Secr
 
 ## The Six Legendary Cocktail Recipes
 
+![Hell Bar Cocktail Mixology Counter](/images/guides/steam-screenshot-3.webp "Preparing underworld cocktails and measuring proof ratios on the counter.")
+
+
 Here are the verified recipes and their corresponding tactical applications:
 
 ### 1. The Pandemonium Mule

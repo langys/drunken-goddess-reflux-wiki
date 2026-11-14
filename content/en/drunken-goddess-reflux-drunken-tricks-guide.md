@@ -43,6 +43,9 @@ Mastering this flow is essential for executing the strategies found in our [Begi
 
 ## Tier 1 Tricks: Buzzed Deceptions (Unlocked at 30% Intoxication)
 
+![Drunken Barfly Tricks and Deception Cards](/images/guides/steam-screenshot-5.webp "Playing deception cards and glass swap tricks against Femme Soule.")
+
+
 Low-tier tricks focus on information gathering and minor positional manipulation:
 
 ### 1. Sleight of Hand (Cost: 5 Skull Coins)

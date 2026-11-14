@@ -99,6 +99,9 @@ These 12 spirits appear across Rounds 1, 2, and 3 during Russian roulette matche
 
 ## Secret Mixed Cocktails (Intermission Mixology)
 
+![Complete Drinks and Alcohol Proof Catalog](/images/guides/steam-screenshot-3.webp "Visual identification of low-proof Void Tonics versus lethal Spiritum shots.")
+
+
 Crafted during 3D bar intermissions using components discovered in Pandemonium:
 
 | Cocktail Name | Formula | Intoxication Effect | Secret Gameplay Modifier |

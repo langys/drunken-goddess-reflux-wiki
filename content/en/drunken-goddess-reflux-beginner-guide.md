@@ -46,6 +46,9 @@ For a deeper mathematical breakdown of shot distribution and odds, consult our c
 
 ## Understanding Your Gauges: Intoxication vs Soul Stability
 
+![Drunken Goddess Reflux Russian Roulette Table Setup](/images/guides/steam-screenshot-1.webp "The Pandemonium mahogany table with shot glasses positioned for Russian roulette duel.")
+
+
 Surviving the night requires monitoring two interconnected resources displayed on your vintage leather coaster HUD:
 
 ### 1. The Intoxication Gauge (0% – 100%)

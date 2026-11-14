@@ -45,6 +45,9 @@ Understanding these formulas is critical when planning turns in our [Beginner Gu
 
 ## The Four Stages of Drunkenness
 
+![Ice Pick Emergency Reset on Intoxication Meter](/images/guides/steam-screenshot-4.webp "Activating the emergency ice pick to shed critical intoxication before fatal reflux.")
+
+
 As intoxication mounts, the game layers dynamic post-processing effects that directly alter player gameplay:
 
 ```

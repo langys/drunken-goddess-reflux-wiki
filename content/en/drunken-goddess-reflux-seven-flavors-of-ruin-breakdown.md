@@ -71,6 +71,9 @@ Compare all ending conditions in our [All Endings Guide](/endings/drunken-goddes
 
 ## Character Design Analysis: odyk's Visual Storytelling
 
+![Seven Flavors of Ruin Story Manifestations](/images/guides/steam-screenshot-6.webp "Lore breakdown of the seven thematic soul purge endings.")
+
+
 Lead artist odyk designed Femme Soule with deliberate visual contradictions:
 - **Her Outfit**: A sharp black evening cocktail dress paired with oversized demon horns that glow like heated neon glass.
 - **Her Eyes**: Dilate progressively as her Intoxication meter rises, shifting from sharp amber slits to swirling violet spirals during Phase 3.

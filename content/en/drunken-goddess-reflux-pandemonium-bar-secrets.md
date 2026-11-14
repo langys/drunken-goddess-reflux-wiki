@@ -60,6 +60,9 @@ To see how items found here tie into recipes, consult [Secret Cocktail Recipes a
 
 ## The Cellar Padlock Puzzle: Unlocking Holy Water
 
+![Pandemonium Underworld Bar Environment](/images/guides/steam-screenshot-7.webp "Exploring the neon-lit mahogany bar counter of Hell's Pandemonium tavern.")
+
+
 The single most valuable secret in Pandemonium is the smuggled bottle of **Holy Water Contraband**. To obtain it, you must crack the 4-digit combination padlock on the cellar door.
 
 ### Step-by-Step Padlock Solution:

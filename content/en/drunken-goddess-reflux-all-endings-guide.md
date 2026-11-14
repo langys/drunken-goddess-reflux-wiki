@@ -48,6 +48,9 @@ This master guide provides a full overview of all seven endings, including their
 ---
 
 ## Ending 1: Reclaimed Dawn (The True Escape)
+
+![Drunken Goddess Reflux All 7 Endings Branching](/images/guides/steam-screenshot-6.webp "End-game climax and story resolutions across the seven flavors of ruin.")
+
 - **The Outcome**: You force Femme Soule to vomit her demonic soul in Round 3. As she collapses across the bar counter weeping and smiling in defeat, the iron elevator behind the jukebox unlocks, carrying your mortal body back up to the morning streets of the living world.
 - **Key Requirements**:
   - Keep your Soul Stability above 20%.

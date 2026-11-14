@@ -43,6 +43,9 @@ Whenever Brimstone Absinthe is poured onto the table, green wisps of phosphor dr
 
 ## Green Fairy Vision: The Precognitive Buff
 
+![Brimstone Absinthe Green Fire Tell](/images/guides/steam-screenshot-3.webp "Identifying the distinct green shimmer and vapor of 72% Brimstone Absinthe.")
+
+
 The primary incentive for taking the massive 35% intoxication hit of Brimstone Absinthe is its exclusive gameplay buff: **Green Fairy Vision**.
 
 ```

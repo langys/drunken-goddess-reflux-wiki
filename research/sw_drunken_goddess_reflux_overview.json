@@ -1,0 +1,77 @@
+{
+  "keyword": "Drunken Goddess Reflux",
+  "country": "999",
+  "dateWindow": {
+    "from": "2026|10|15",
+    "to": "2026|11|11"
+  },
+  "stats": {
+    "SERPCompositionBreakDown": {
+      "ClassicOrganic": {
+        "Percentage": 0
+      },
+      "OrganicSERPFeatures": {
+        "Percentage": 0
+      },
+      "SearchAds": {
+        "Percentage": 0
+      },
+      "PLA": {
+        "Percentage": 0
+      }
+    },
+    "CPCRangeMin": 0,
+    "CPCRangeMax": 0,
+    "TotalSpentRangeMin": 0,
+    "TotalSpentRangeMax": 0,
+    "IntentVolumeDistribution": {},
+    "AioExistence": 0
+  },
+  "trend": {
+    "Breakdown": {
+      "2026-10-11": {
+        "Clicks": {
+          "Organic": 0,
+          "Paid": 0
+        },
+        "Volume": 0
+      },
+      "2026-10-18": {
+        "Clicks": {
+          "Organic": 0,
+          "Paid": 0
+        },
+        "Volume": 0
+      },
+      "2026-10-25": {
+        "Clicks": {
+          "Organic": 0,
+          "Paid": 0
+        },
+        "Volume": 0
+      },
+      "2026-11-01": {
+        "Clicks": {
+          "Organic": 0,
+          "Paid": 0
+        },
+        "Volume": 0
+      },
+      "2026-11-08": {
+        "Clicks": {
+          "Organic": 0,
+          "Paid": 0
+        },
+        "Volume": 0
+      }
+    },
+    "Average": {
+      "Clicks": {
+        "Organic": 0,
+        "Paid": 0
+      },
+      "Volume": 0
+    }
+  },
+  "sites": {}
+}

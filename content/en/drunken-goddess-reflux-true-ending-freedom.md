@@ -47,6 +47,9 @@ Review our foundational tactics in the [Beginner Guide](/guide/drunken-goddess-r
 
 ## Intermission 1: Setting the Defiant Flags
 
+![True Ending Freedom Escape Cutscene](/images/guides/steam-screenshot-6.webp "Breaking the demonic contract and escaping Hell's Pandemonium tavern.")
+
+
 When you awaken at the counter and survive Round 1, Femme Soule initiates her first dialogue exchange. To stay on the Reclaimed Dawn path:
 
 1. **Dialogue Prompt 1**: Femme asks what brought you to Hell.

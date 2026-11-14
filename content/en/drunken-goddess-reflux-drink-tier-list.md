@@ -51,6 +51,9 @@ To see exact percentages and visual properties for each bottle, check our [All D
 
 ## S-Tier: Game-Deciding Legendary Spirits
 
+![Underworld Drink Lethality and Tier Rankings](/images/guides/steam-screenshot-3.webp "Comparing S-tier lethal drinks against defensive utility tonics.")
+
+
 These drinks possess extreme game-altering properties capable of securing immediate victory or completely rescuing a lost match.
 
 ### 1. Spiritum (96% ABV)

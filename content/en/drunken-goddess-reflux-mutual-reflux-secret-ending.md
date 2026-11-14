@@ -55,6 +55,9 @@ If one character hits 100% even a single frame before the other, the game will d
 
 ## Required Deck Setup: The "Tied Souls" Card
 
+![Mutual Reflux Simultaneous Soul Purge Ending](/images/guides/steam-screenshot-6.webp "Both player and demon succumbing to simultaneous alcohol reflux.")
+
+
 The linchpin of this ending is the rare Tier 3 trick card: **Tied Souls**.
 - **How to Get It**: You have a 25% chance to draw *Tied Souls* upon crossing the 80% Intoxication milestone, or you can purchase it from the Ashen Bartender for 30 Skull Coins during Intermission 2.
 - **Card Effect**: Links the player's glass to the demon's glass. When you take a drink, Femme Soule must immediately consume the glass placed opposite yours.

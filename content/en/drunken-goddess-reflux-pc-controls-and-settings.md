@@ -58,6 +58,9 @@ Learn how to explore Pandemonium effectively in [Pandemonium Bar Secrets](/guide
 
 ## Gamepad & Steam Deck Controller Layout
 
+![PC Controls and Gameplay Interface](/images/guides/steam-screenshot-7.webp "Default keyboard controls and interface settings for shot selection.")
+
+
 Drunken Goddess Reflux includes native mapping profiles for Xbox, PlayStation, and Steam Deck:
 
 ```

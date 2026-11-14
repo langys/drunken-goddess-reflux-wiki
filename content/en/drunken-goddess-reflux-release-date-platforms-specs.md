@@ -58,6 +58,9 @@ Learn the basics before launch with our [Beginner Guide](/guide/drunken-goddess-
 
 ## Content Rating: Is Drunken Goddess Reflux NSFW or Gory?
 
+![PC System Requirements and Display Options](/images/guides/steam-screenshot-7.webp "Hardware specifications and framerate settings for Pandemonium bar visuals.")
+
+
 Due to the intense psychological themes, suggestive demon banter, and the visceral concept of "purging your soul" via reflux, many players wonder about the game's content classification:
 
 - **NSFW / R18 Status**: **No**. Drunken Goddess Reflux is **not an adult R18 / eroge title**. While the demon bartender [Femme Soule](/guide/drunken-goddess-reflux-femme-soule-boss-guide) sports a provocative gothic-bartender aesthetic and speaks with affectionate, obsessive vocal lines delivered by Nanahira, there is no sexual content or explicit nudity.

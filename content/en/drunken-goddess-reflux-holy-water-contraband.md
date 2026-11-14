@@ -49,6 +49,9 @@ For a full map of Pandemonium's layout, consult our [Pandemonium Bar Secrets Exp
 
 ## Dual Tactical Modes: Self-Purge vs Demon Stun
 
+![Holy Water Contraband Vial](/images/guides/steam-screenshot-5.webp "Smuggling holy water into Pandemonium to cleanse fatal alcohol buildup.")
+
+
 Once added to your personal inventory, Holy Water Contraband can be used in two radically different ways:
 
 ### Mode 1: The Divine Cleansing (Self-Consumption)
