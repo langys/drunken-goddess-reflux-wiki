@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux OST and Theme Song DEMON'S SHOT Guide"
+title: "OST & DEMON'S SHOT Theme Song Guide"
 description: "Official soundtrack details for Drunken Goddess Reflux, featuring theme song DEMON'S SHOT by Aiobahn +81, DEMONDICE, and Nanahira."
 hub: "codes"
 slug: "drunken-goddess-reflux-ost-demons-shot-tracklist"
