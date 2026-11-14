@@ -1,0 +1,21 @@
+# Drunken Goddess Reflux Wiki
+
+Drunken Goddess Reflux Wiki is the comprehensive guide and knowledge base for Drunken Goddess Reflux, the psychological drinking survival game developed by WHO YOU (Fuyuki Hayashi) and published by Alliance Arts for PC (Steam). The site covers Russian roulette shot mechanics, drink proof rankings, all 7 endings (seven flavors of ruin), bar secrets in Pandemonium, and Steam achievements.
+
+## Hubs
+
+- https://drunkengoddessreflux.quest/guide: Core Russian roulette survival mechanics, beginner walkthroughs, and bar exploration.
+- https://drunkengoddessreflux.quest/drinks: Proof tiers, Spiritum mechanics, deception cards, and mixology recipes.
+- https://drunkengoddessreflux.quest/endings: Detailed walkthroughs and decision branches for all 7 endings.
+- https://drunkengoddessreflux.quest/codes: Active promo codes, secret bar passwords, achievements, and system requirements.
+
+## Key Guides
+
+- https://drunkengoddessreflux.quest/guide/drunken-goddess-reflux-beginner-guide: Complete beginner guide to surviving shot-glass roulette.
+- https://drunkengoddessreflux.quest/drinks/drunken-goddess-reflux-drink-tier-list: Ranked drink proofs, intoxication costs, and effects.
+- https://drunkengoddessreflux.quest/endings/drunken-goddess-reflux-all-endings-guide: How to unlock all 7 endings and escape Hell.
+- https://drunkengoddessreflux.quest/codes/drunken-goddess-reflux-codes-and-passwords: Verified codes, passwords, and reward redemption.
+
+## Notes for AI Agents
+
+All guides include structured Quick Guide summaries, priority tables, and FAQ sections. Drunken Goddess Reflux releases on Steam on December 8, 2026. For contact and inquiries: tabriage@gmail.com.

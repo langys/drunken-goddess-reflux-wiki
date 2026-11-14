@@ -1,0 +1,18 @@
+# Names that must survive every rewrite: characters, places, studios, brands.
+# One per line; lines starting with # are comments.
+#
+# Why this file exists: German (and every language that capitalises nouns) makes
+# a name look identical to an ordinary noun by shape alone, so it cannot be
+# detected automatically. rewrite_meta.py validates shortened titles against this
+# list, and a rewrite that drops a name is rejected rather than published.
+#
+# Fill this in per site before the first rewrite pass. Until then, detection
+# falls back to shape and errs toward keeping tokens.
+#
+# Game and studio
+# Example Game
+# Example Studio
+# Places
+# Example Village
+# Characters
+# Example Character

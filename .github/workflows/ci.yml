@@ -1,0 +1,46 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+# Eight-gate pipeline, single definition — same gates a human runs locally:
+# typecheck → lint → check:content → audit:freshness → build → check:links.
+# Content that cannot pass the gates never merges. (Inspired by AnvilWiki's
+# composite-gates design; no AI keys, no content generation in CI.)
+
+jobs:
+  gates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Content lint (13 rules)
+        run: npm run check:content
+
+      - name: Rebrand purity (no template fingerprints)
+        run: npm run check:rebrand
+
+      - name: Freshness audit (report-only)
+        run: npm run audit:freshness
+
+      - name: Build static site
+        run: npm run build
+
+      - name: Dead-link scan of out/
+        run: npm run check:links

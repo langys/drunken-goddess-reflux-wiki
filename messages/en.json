@@ -1,0 +1,90 @@
+{
+  "nav": {
+    "home": "Home",
+    "guides": "Guides",
+    "openMenu": "Open menu"
+  },
+  "common": {
+    "readMore": "Read more",
+    "updated": "Updated",
+    "published": "Published",
+    "advertisement": "Advertisement",
+    "backToHub": "More {hub}",
+    "sponsored": "Sponsored",
+    "closeSponsored": "Close sponsored banner",
+    "quickGuide": "Quick Guide",
+    "faqHeading": "Frequently Asked Questions"
+  },
+  "hero": {
+    "tagline": "Drunken Goddess Reflux Guides, Walkthroughs & Strategies",
+    "description": "Comprehensive guides, tier lists, and mechanics for Drunken Goddess Reflux.",
+    "primaryCta": "Beginner Guide",
+    "secondaryCta": "Tier List"
+  },
+  "home": {
+    "startHere": "Start here",
+    "searchPlaceholder": "Search guides, mechanics, items…",
+    "searchLabel": "Search the wiki",
+    "searchSubmit": "Search",
+    "moduleBrowse": "View all",
+    "officialMedia": "Official Media",
+    "officialMediaDescription": "Trailers and screenshots published by official developers.",
+    "resources": "Drunken Goddess Reflux Resources",
+    "latest": "Latest Updates",
+    "readyTitle": "Ready to explore Drunken Goddess Reflux?",
+    "readyDescription": "Check out our beginner walkthroughs, tier lists, and gameplay guides.",
+    "faq": "Drunken Goddess Reflux FAQ",
+    "featuredGuides": {
+      "beginner": "Beginner Guide",
+      "drinks": "Drink Tier List",
+      "endings": "All Endings Guide",
+      "codes": "Active Codes"
+    }
+  },
+  "hubs": {
+    "guide": {
+      "label": "Guides",
+      "description": "Russian roulette survival walkthroughs, mechanics, and bar exploration."
+    },
+    "drinks": {
+      "label": "Drinks",
+      "description": "Alcohol proof ratings, Spiritum mechanics, tricks, and drink tier lists."
+    },
+    "endings": {
+      "label": "Endings",
+      "description": "Walkthroughs for all seven flavors of ruin and the true escape ending."
+    },
+    "codes": {
+      "label": "Codes",
+      "description": "Secret bar passwords, promo codes, achievements, and release details."
+    }
+  },
+  "toc": {
+    "title": "Table of Contents"
+  },
+  "reading": {
+    "index": "Wiki navigation",
+    "hub": "Hub",
+    "previous": "Previous",
+    "next": "Next",
+    "articleNavigation": "Article Navigation",
+    "related": "Related Guides"
+  },
+  "search": {
+    "title": "Search",
+    "triggerTitle": "Search the wiki (Cmd+K)",
+    "dialogPlaceholder": "Search Drunken Goddess Reflux guides, drinks, endings…",
+    "close": "Close",
+    "dialogHint": "Type at least two characters to search…",
+    "dialogNoResults": "No results found for \"{query}\"",
+    "results": "{count} results found for \"{query}\"",
+    "viewAll": "View all search results"
+  },
+  "hub": {
+    "empty": "No guides published in this section yet. Check back shortly."
+  },
+  "video": {
+    "play": "Play {title}",
+    "officialTrailer": "Official Trailer"
+  }
+}
