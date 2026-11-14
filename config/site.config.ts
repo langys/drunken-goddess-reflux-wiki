@@ -36,7 +36,7 @@ export const siteConfig = {
   /** Search-console ownership tokens. Rendered as verification meta tags. */
   verification: {
     google: '',
-    bing: '',
+    bing: 'E6C81E97CBBB9942B131B98E079B5C1D',
   } as { google?: string; bing?: string },
 
   // --------------------------------------------------------------------- hubs
