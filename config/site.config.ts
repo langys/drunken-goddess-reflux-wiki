@@ -35,7 +35,7 @@ export const siteConfig = {
 
   /** Search-console ownership tokens. Rendered as verification meta tags. */
   verification: {
-    google: '',
+    google: '37Qm5GH831WBciQFI1gty8XdDEZmao1s4kBJ9O5Q5Ts',
     bing: 'E6C81E97CBBB9942B131B98E079B5C1D',
   } as { google?: string; bing?: string },
 
@@ -101,7 +101,7 @@ export const siteConfig = {
   // ---------------------------------------------------------------- analytics
   analytics: {
     enabled: true,
-    gaId: process.env.NEXT_PUBLIC_GA_ID || '',
+    gaId: process.env.NEXT_PUBLIC_GA_ID || 'G-0H0LVJYB11',
   },
 
   // ----------------------------------------------------------------- external
