@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux Drunken Tricks and Deception Cards"
+title: "Drunken Tricks & Deception Cards Complete Guide"
 description: "Unlock and execute all drunken tricks and deception cards in Drunken Goddess Reflux, from glass swapping to multiplier bluffing."
 hub: "guide"
 slug: "drunken-goddess-reflux-drunken-tricks-guide"

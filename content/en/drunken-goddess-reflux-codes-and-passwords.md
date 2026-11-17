@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux Codes and Secret Bar Passwords"
+title: "Codes and Secret Bar Passwords (Updated Promo List)"
 description: "All active promo codes, VIP secret passwords, and redemption methods in Drunken Goddess Reflux for bonus coins and cosmetic glasses."
 hub: "codes"
 slug: "drunken-goddess-reflux-codes-and-passwords"

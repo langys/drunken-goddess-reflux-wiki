@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux Russian Roulette Rules Explained"
+title: "Russian Roulette Rules: Proof Odds & Mechanics Explained"
 description: "Understand shot selection, proof mechanics, turn order, and rule-breaking systems in Drunken Goddess Reflux's demon drinking contest."
 hub: "guide"
 slug: "drunken-goddess-reflux-russian-roulette-mechanics"

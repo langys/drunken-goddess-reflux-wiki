@@ -20,6 +20,12 @@ export function HomeSchema({ locale }: { locale?: string } = {}) {
         '@id': `${siteConfig.url}/#website`,
         url: siteConfig.url,
         name: siteConfig.fullName,
+        alternateName: [
+          siteConfig.name,
+          `${siteConfig.name} Wiki`,
+          'Pukey Goddess Shot Trick',
+          'Pukey Goddess Shot Trick Wiki',
+        ],
         description: siteConfig.description,
         inLanguage: siteConfig.defaultLocale,
         publisher: { '@id': `${siteConfig.url}/#organization` },
@@ -38,6 +44,7 @@ export function HomeSchema({ locale }: { locale?: string } = {}) {
       {
         '@type': SUBJECT_SCHEMA[siteConfig.subjectType],
         name: siteConfig.name,
+        alternateName: ['Pukey Goddess Shot Trick'],
         url: siteConfig.external.store ?? siteConfig.url,
         applicationCategory: 'Game',
         operatingSystem: siteConfig.operatingSystem,

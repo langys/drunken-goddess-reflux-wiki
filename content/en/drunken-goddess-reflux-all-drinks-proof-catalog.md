@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux All Drinks and Proof Catalog"
+title: "All Drinks & Proof Catalog: Complete Beverage Database"
 description: "Complete drink catalog in Drunken Goddess Reflux listing exact alcohol percentages, visual tells, glass markings, and soul gauge damage."
 hub: "drinks"
 slug: "drunken-goddess-reflux-all-drinks-proof-catalog"

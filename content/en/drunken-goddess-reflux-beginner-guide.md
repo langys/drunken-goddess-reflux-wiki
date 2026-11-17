@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux Beginner Guide: Tips and Mechanics"
+title: "Beginner Guide: Tips and Russian Roulette Mechanics"
 description: "Master Drunken Goddess Reflux with beginner tips on shot roulette, intoxication meters, ice pick resets, and surviving Hell's Pandemonium bar."
 hub: "guide"
 slug: "drunken-goddess-reflux-beginner-guide"

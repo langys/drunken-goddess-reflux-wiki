@@ -147,7 +147,7 @@ export default async function CatchAllPage({ params }: { params: Promise<RoutePa
         <Breadcrumbs
           locale={locale}
           items={[
-            { name: t.has('nav.home') ? t('nav.home') : 'Home', url: '/' },
+            { name: `${siteConfig.name} Wiki`, url: '/' },
             { name: hubLabel, url: meta.href },
           ]}
         />
@@ -285,7 +285,7 @@ export default async function CatchAllPage({ params }: { params: Promise<RoutePa
       <Breadcrumbs
         locale={locale}
         items={[
-          { name: t.has('nav.home') ? t('nav.home') : 'Home', url: '/' },
+          { name: `${siteConfig.name} Wiki`, url: '/' },
           { name: hubLabel, url: hubMeta.href },
           { name: guide.title, url: path },
         ]}

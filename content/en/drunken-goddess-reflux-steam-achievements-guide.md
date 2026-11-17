@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux Steam Achievements Guide (100%)"
+title: "Steam Achievements Guide: 100% Completion Walkthrough"
 description: "Full 100% Steam achievements guide for Drunken Goddess Reflux with unlock criteria, hidden trophies, and optimal routing."
 hub: "codes"
 slug: "drunken-goddess-reflux-steam-achievements-guide"

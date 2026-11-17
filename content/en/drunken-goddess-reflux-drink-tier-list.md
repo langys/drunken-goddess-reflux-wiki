@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux Drink Tier List: Best and Worst Shots"
+title: "Drink Tier List: Best Spirits and Lethal Shots Ranked"
 description: "Ranked tier list of all drinks and spirits in Drunken Goddess Reflux by proof, tactical utility, debuff severity, and lethality."
 hub: "drinks"
 slug: "drunken-goddess-reflux-drink-tier-list"

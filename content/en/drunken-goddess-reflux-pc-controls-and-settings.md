@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux PC Controls, Keybinds and Settings"
+title: "PC Controls, Keybinds and Interface Settings Guide"
 description: "Comprehensive guide to keyboard, mouse, and gamepad controls for Drunken Goddess Reflux, including FOV and accessibility toggles."
 hub: "codes"
 slug: "drunken-goddess-reflux-pc-controls-and-settings"

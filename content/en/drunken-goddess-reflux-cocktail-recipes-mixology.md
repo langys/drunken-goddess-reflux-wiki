@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux Secret Cocktail Recipes and Mixology"
+title: "Secret Cocktail Recipes and Underworld Mixology Guide"
 description: "Discover secret bar recipes in Pandemonium, special drink concoctions, mixology Easter eggs, and their unique dialogue reactions."
 hub: "drinks"
 slug: "drunken-goddess-reflux-cocktail-recipes-mixology"

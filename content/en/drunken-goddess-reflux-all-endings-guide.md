@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux All Endings Guide (7 Flavors)"
+title: "All Endings Guide: Unlocking All 7 Flavors of Ruin"
 description: "Complete guide to unlocking all seven endings in Drunken Goddess Reflux, including choice trees, soul conditions, and achievement flags."
 hub: "endings"
 slug: "drunken-goddess-reflux-all-endings-guide"

@@ -263,7 +263,12 @@ export function SiteHeader({
             </nav>
           </details>
 
-          <Link href={prefix || '/'} className="flex items-center gap-2 transition hover:opacity-80">
+          <Link
+            href={prefix || '/'}
+            className="flex items-center gap-2 transition hover:opacity-80"
+            title={siteConfig.fullName}
+            aria-label={siteConfig.fullName}
+          >
             {/* Generated mark: a fish silhouette in the theme colour, regenerated
                 per site by scripts/make_logo.py from config/brand-mark.json. */}
             {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -275,8 +280,8 @@ export function SiteHeader({
               className="h-9 w-9 rounded-lg"
             />
             <span className="hidden text-sm font-bold leading-tight min-[360px]:inline sm:text-lg sm:leading-normal">
-              {siteConfig.name}
-              <span className="hidden sm:inline"> Wiki</span>
+              {siteConfig.name}{' '}
+              <span className="text-primary font-extrabold">Wiki</span>
             </span>
           </Link>
         </div>

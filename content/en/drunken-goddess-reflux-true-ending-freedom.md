@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux True Ending Guide: Escape Hell"
+title: "True Ending Guide: How to Break Contract & Escape Hell"
 description: "Step-by-step walkthrough to achieve the True Ending in Drunken Goddess Reflux, reclaiming your mortal soul and escaping Pandemonium alive."
 hub: "endings"
 slug: "drunken-goddess-reflux-true-ending-freedom"

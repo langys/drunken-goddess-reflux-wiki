@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux Intoxication and Ice Pick Guide"
+title: "Intoxication Meter and Ice Pick Emergency Reset Guide"
 description: "How to manage intoxication levels, calculate risk thresholds, and use the ice pick mechanic to stay conscious in Drunken Goddess Reflux."
 hub: "guide"
 slug: "drunken-goddess-reflux-intoxication-ice-pick-guide"

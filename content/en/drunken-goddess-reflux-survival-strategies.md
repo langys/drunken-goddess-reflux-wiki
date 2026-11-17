@@ -1,5 +1,5 @@
 ---
-title: "Drunken Goddess Reflux Survival Strategies: Advanced Play"
+title: "Survival Strategies: Advanced Drinking Duel Tactics"
 description: "Advanced strategies for surviving high-proof rounds, baiting demon moves, managing soul stability, and securing late-game victories."
 hub: "guide"
 slug: "drunken-goddess-reflux-survival-strategies"
