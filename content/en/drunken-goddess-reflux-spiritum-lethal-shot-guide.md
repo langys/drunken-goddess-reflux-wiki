@@ -4,7 +4,7 @@ description: "Everything about Spiritum in Drunken Goddess Reflux: how this leth
 hub: "drinks"
 slug: "drunken-goddess-reflux-spiritum-lethal-shot-guide"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/spiritum-shot.webp"
 imageAlt: "Spiritum Lethal Shot in Drunken Goddess Reflux"
 imageCaption: "Spiritum, the 190-proof demonic spirit capable of inducing immediate blackout."

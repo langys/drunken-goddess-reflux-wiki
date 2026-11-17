@@ -4,7 +4,7 @@ description: "Complete guide to unlocking all seven endings in Drunken Goddess R
 hub: "endings"
 slug: "drunken-goddess-reflux-all-endings-guide"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/all-endings.webp"
 imageAlt: "All Endings Overview in Drunken Goddess Reflux"
 imageCaption: "The Seven Flavors of Ruin: branching outcomes based on alcohol, trust, and trigger discipline."

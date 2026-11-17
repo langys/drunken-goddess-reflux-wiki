@@ -4,7 +4,7 @@ description: "Official release date on Steam (December 8, 2026), PC system requi
 hub: "codes"
 slug: "drunken-goddess-reflux-release-date-platforms-specs"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/specs-platforms.webp"
 imageAlt: "Drunken Goddess Reflux Release Date, Platforms and PC Specs"
 imageCaption: "Official launch timing, PC hardware benchmarks, Steam Deck verification, and console plans."

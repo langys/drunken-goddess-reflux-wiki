@@ -4,7 +4,7 @@ description: "Explore the Pandemonium bar in Drunken Goddess Reflux. Uncover hid
 hub: "guide"
 slug: "drunken-goddess-reflux-pandemonium-bar-secrets"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/pandemonium-secrets.webp"
 imageAlt: "Pandemonium Bar Interior and Hidden Secrets"
 imageCaption: "Neon-drenched hallways and VIP lounge areas inside Hell's premier watering hole."

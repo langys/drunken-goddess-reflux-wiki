@@ -4,7 +4,7 @@ description: "Comprehensive guide to keyboard, mouse, and gamepad controls for D
 hub: "codes"
 slug: "drunken-goddess-reflux-pc-controls-and-settings"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/pc-controls.webp"
 imageAlt: "PC Controls, Keybinds and Camera Settings"
 imageCaption: "Optimal keyboard, mouse, and gamepad sensitivity configurations for shot precision."

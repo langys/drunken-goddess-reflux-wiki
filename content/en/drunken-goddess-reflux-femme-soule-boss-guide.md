@@ -4,7 +4,7 @@ description: "Learn Femme Soule's drinking patterns, voice line tells by Nanahir
 hub: "guide"
 slug: "drunken-goddess-reflux-femme-soule-boss-guide"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/femme-soule-boss.webp"
 imageAlt: "Femme Soule Demon Boss in Drunken Goddess Reflux"
 imageCaption: "Femme Soule, the immortal demon bartender and master of Pandemonium."

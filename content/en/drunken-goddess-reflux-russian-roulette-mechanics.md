@@ -4,7 +4,7 @@ description: "Understand shot selection, proof mechanics, turn order, and rule-b
 hub: "guide"
 slug: "drunken-goddess-reflux-russian-roulette-mechanics"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/russian-roulette.webp"
 imageAlt: "Drunken Goddess Reflux Russian Roulette Revolver & Cylinder"
 imageCaption: "Six-chamber demonic revolver loaded with lethal live rounds and blanks."

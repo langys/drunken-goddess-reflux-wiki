@@ -4,7 +4,7 @@ description: "Deep dive into the narrative and thematic significance of the seve
 hub: "endings"
 slug: "drunken-goddess-reflux-seven-flavors-of-ruin-breakdown"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/seven-flavors-lore.webp"
 imageAlt: "Seven Flavors of Ruin Lore Breakdown"
 imageCaption: "Deep lore analysis of Hell's seven metaphysical cocktail flavors and demon hierarchy."

@@ -4,7 +4,7 @@ description: "Official soundtrack details for Drunken Goddess Reflux, featuring 
 hub: "codes"
 slug: "drunken-goddess-reflux-ost-demons-shot-tracklist"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/ost-demons-shot.webp"
 imageAlt: "Drunken Goddess Reflux OST & DEMON'S SHOT Theme Song"
 imageCaption: "Official soundtrack by Aiobahn +81 featuring DEMONDICE and Nanahira on vocals."

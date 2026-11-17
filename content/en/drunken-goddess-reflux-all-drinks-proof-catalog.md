@@ -4,7 +4,7 @@ description: "Complete drink catalog in Drunken Goddess Reflux listing exact alc
 hub: "drinks"
 slug: "drunken-goddess-reflux-all-drinks-proof-catalog"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/drinks-proof-catalog.webp"
 imageAlt: "All Drinks Catalog and Proof Ratings"
 imageCaption: "Complete index of alcoholic proofs, positive perks, and intoxication trade-offs."

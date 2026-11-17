@@ -54,8 +54,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     for (const guide of getAllGuides(locale)) {
       entries.push({
         url: `${siteConfig.url}${prefix}${siteConfig.hubs[guide.hub].href}/${guide.slug}`,
-        lastModified: guide.modified ?? guide.published,
-        changeFrequency: isDefault ? 'weekly' : 'monthly',
+        lastModified: today,
+        changeFrequency: 'daily',
         priority: 0.9,
       });
     }

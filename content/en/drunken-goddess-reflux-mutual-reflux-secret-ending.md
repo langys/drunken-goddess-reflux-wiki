@@ -4,7 +4,7 @@ description: "Unlock the hidden Mutual Reflux ending in Drunken Goddess Reflux b
 hub: "endings"
 slug: "drunken-goddess-reflux-mutual-reflux-secret-ending"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/mutual-reflux.webp"
 imageAlt: "Mutual Reflux Secret Ending Duel"
 imageCaption: "Simultaneous alcohol poisoning and dual revolver discharge triggering the secret reflux scene."

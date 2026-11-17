@@ -4,7 +4,7 @@ description: "Step-by-step walkthrough to achieve the True Ending in Drunken God
 hub: "endings"
 slug: "drunken-goddess-reflux-true-ending-freedom"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/true-ending.webp"
 imageAlt: "True Ending Escape from Hell"
 imageCaption: "The golden morning light signaling freedom after breaking Pandemonium's eternal contract."

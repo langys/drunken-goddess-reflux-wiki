@@ -4,7 +4,7 @@ description: "Locate Holy Water contraband in Drunken Goddess Reflux to stun Fem
 hub: "drinks"
 slug: "drunken-goddess-reflux-holy-water-contraband"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/holy-water.webp"
 imageAlt: "Holy Water Contraband Bottle"
 imageCaption: "Illicit holy water smuggled into Hell, cleansing toxic debuffs and nullifying instant death."

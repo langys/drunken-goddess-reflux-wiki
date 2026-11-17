@@ -4,7 +4,7 @@ description: "Unlock and execute all drunken tricks and deception cards in Drunk
 hub: "guide"
 slug: "drunken-goddess-reflux-drunken-tricks-guide"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/drunken-tricks.webp"
 imageAlt: "Drunken Tricks and Advanced Mechanics"
 imageCaption: "Executing rapid glass swaps and animation-cancel ice pick parries."

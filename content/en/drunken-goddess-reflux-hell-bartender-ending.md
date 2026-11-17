@@ -4,7 +4,7 @@ description: "Detailed walkthrough for the secret Hell Bartender ending in Drunk
 hub: "endings"
 slug: "drunken-goddess-reflux-hell-bartender-ending"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/hell-bartender.webp"
 imageAlt: "Hell Bartender Bad Ending"
 imageCaption: "Trapped behind the mahogany counter forever as the new server of damned souls."

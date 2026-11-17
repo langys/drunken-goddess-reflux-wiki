@@ -4,7 +4,7 @@ description: "Advanced strategies for surviving high-proof rounds, baiting demon
 hub: "guide"
 slug: "drunken-goddess-reflux-survival-strategies"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/survival-strategies.webp"
 imageAlt: "Survival Strategy Duel in Drunken Goddess Reflux"
 imageCaption: "High-stakes turn analysis: weighing projectile lethality against alcohol toxicity."

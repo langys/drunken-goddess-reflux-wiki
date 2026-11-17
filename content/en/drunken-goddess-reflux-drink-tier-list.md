@@ -4,7 +4,7 @@ description: "Ranked tier list of all drinks and spirits in Drunken Goddess Refl
 hub: "drinks"
 slug: "drunken-goddess-reflux-drink-tier-list"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/drink-tier-list.webp"
 imageAlt: "Drunken Goddess Reflux All Drinks Tier List"
 imageCaption: "Comprehensive tier list ranking all 18 liquors and cocktails by win rate impact."

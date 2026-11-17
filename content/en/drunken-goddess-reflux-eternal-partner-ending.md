@@ -4,7 +4,7 @@ description: "How to unlock the Eternal Partner romance ending with Femme Soule 
 hub: "endings"
 slug: "drunken-goddess-reflux-eternal-partner-ending"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/eternal-partner.webp"
 imageAlt: "Eternal Partner Ending with Femme Soule"
 imageCaption: "Choosing companionship over escape, becoming co-owner and protector of Pandemonium."

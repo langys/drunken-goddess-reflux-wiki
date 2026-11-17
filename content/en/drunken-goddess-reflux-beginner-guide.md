@@ -4,7 +4,7 @@ description: "Master Drunken Goddess Reflux with beginner tips on shot roulette,
 hub: "guide"
 slug: "drunken-goddess-reflux-beginner-guide"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/beginner-guide.webp"
 imageAlt: "Drunken Goddess Reflux Beginner Gameplay & Russian Roulette Table"
 imageCaption: "The Pandemonium mahogany table where Russian roulette shots are taken against Femme Soule."

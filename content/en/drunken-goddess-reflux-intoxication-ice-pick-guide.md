@@ -4,7 +4,7 @@ description: "How to manage intoxication levels, calculate risk thresholds, and 
 hub: "guide"
 slug: "drunken-goddess-reflux-intoxication-ice-pick-guide"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/intoxication-mechanics.webp"
 imageAlt: "Drunken Goddess Reflux Intoxication Gauge & Visual Distortion"
 imageCaption: "Rising BAC gauge triggers tunnel vision, chromatic aberration, and reflux warnings."

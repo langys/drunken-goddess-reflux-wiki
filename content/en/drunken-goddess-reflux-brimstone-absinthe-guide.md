@@ -4,7 +4,7 @@ description: "Detailed breakdown of Brimstone Absinthe in Drunken Goddess Reflux
 hub: "drinks"
 slug: "drunken-goddess-reflux-brimstone-absinthe-guide"
 published: "2026-11-14"
-modified: "2026-11-14"
+modified: "2026-11-17"
 image: "/images/guides/brimstone-absinthe.webp"
 imageAlt: "Brimstone Absinthe Liquor Guide"
 imageCaption: "The emerald-tinted Brimstone Absinthe granting high critical damage at the cost of hallucinations."
