@@ -346,7 +346,7 @@ def main() -> int:
     ink = (15, 19, 26) if relative_luminance(bg) > 0.45 else (255, 255, 255)
     svg = build_svg(style, '#%02x%02x%02x' % bg, '#%02x%02x%02x' % ink, not args.square)
     # Keep bytes in memory: parallel sites never share a temporary file.
-    frames = {size: build_png(size, bg, ink, style, not args.square) for size in (16, 32, 48, 96, 180)}
+    frames = {size: build_png(size, bg, ink, style, not args.square) for size in (16, 32, 48, 96, 180, 192, 512)}
     public = args.site_dir / 'public'
     public.mkdir(parents=True, exist_ok=True)
     for name in ('logo.svg', 'icon.svg'):
@@ -354,9 +354,11 @@ def main() -> int:
     for size in (32, 96):
         (public / f'favicon-{size}x{size}.png').write_bytes(frames[size])
     (public / 'apple-touch-icon.png').write_bytes(frames[180])
+    (public / 'android-chrome-192x192.png').write_bytes(frames[192])
+    (public / 'android-chrome-512x512.png').write_bytes(frames[512])
     (public / 'favicon.ico').write_bytes(build_ico({size: frames[size] for size in (16, 32, 48)}))
     label = str(source) if source else style
-    print(f'wrote matching SVG / 32px and 96px PNG / 16,32,48px ICO / 180px Apple icons (mark: {label})')
+    print(f'wrote matching SVG / 32px, 96px, 192px, 512px PNG / 16,32,48px ICO / 180px Apple icons (mark: {label})')
     return 0
 
 

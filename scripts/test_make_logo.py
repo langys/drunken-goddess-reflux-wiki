@@ -170,7 +170,8 @@ class FaviconTests(unittest.TestCase):
                 style, '#%02x%02x%02x' % bg, '#%02x%02x%02x' % ink, 'rx=' in svg)]
             self.assertEqual(len(styles), 1, 'SVG must match the configured mark and theme color')
             mark = styles[0]
-        for name, size in [('favicon-32x32.png', 32), ('favicon-96x96.png', 96), ('apple-touch-icon.png', 180)]:
+        for name, size in [('favicon-32x32.png', 32), ('favicon-96x96.png', 96), ('apple-touch-icon.png', 180),
+                           ('android-chrome-192x192.png', 192), ('android-chrome-512x512.png', 512)]:
             self.assertEqual((public / name).read_bytes(), make_logo.build_png(size, bg, ink, mark, 'rx=' in svg))
         frames = decode_ico((public / 'favicon.ico').read_bytes())
         self.assertEqual(set(frames), {16, 32, 48})
